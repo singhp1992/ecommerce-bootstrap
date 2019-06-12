@@ -1,4 +1,22 @@
-.extra-padding {
+.headline{
   padding-top: 12%;
   padding-bottom: 12%;
+  background-image: url(images/background-squid.jpg);
+  background-size: 200px 200px;
+  letter-spacing: 10px;
 }
+
+.footer,
+a {
+    color: rgb(43, 175, 43);
+}
+
+a:hover {
+    text-decoration: none;
+    color: forestgreen;
+}
+
+.shadow {
+    text-shadow: 3px 3px rgb(179, 179, 179);
+}
+
