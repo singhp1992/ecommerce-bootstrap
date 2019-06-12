@@ -4,7 +4,6 @@
   background-image: url(images/background-squid.jpg);
   background-size: 200px 200px;
   letter-spacing: 10px;
-  text-shadow: 3px 3px rgb(179, 179, 179);
 }
 
 .footer,
@@ -15,5 +14,9 @@ a {
 a:hover {
     text-decoration: none;
     color: forestgreen;
+}
+
+.shadow {
+    text-shadow: 3px 3px rgb(179, 179, 179);
 }
 
